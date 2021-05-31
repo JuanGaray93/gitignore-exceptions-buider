@@ -1,0 +1,22 @@
+{
+  "name": "gitignore-exceptions-buider",
+  "version": "1.0.0",
+  "description": "Exclusions builder for gitignore-style patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanGaray93/gitignore-exceptions-buider.git"
+  },
+  "author": "Juan Garay",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/JuanGaray93/gitignore-exceptions-buider/issues"
+  },
+  "homepage": "https://github.com/JuanGaray93/gitignore-exceptions-buider#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
