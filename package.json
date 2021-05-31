@@ -1,6 +1,7 @@
 {
   "name": "gitignore-exceptions-buider",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "1.0.1",
   "description": "Exclusions builder for gitignore-style patterns",
   "main": "index.js",
   "scripts": {

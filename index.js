@@ -42,6 +42,4 @@ const buildIgnorePaths = (pathToIgnore, exclusions) => [
     .flatMap(buildExclusionSteps(pathToIgnore)),
 ];
 
-module.exports = {
-  buildIgnorePaths,
-};
+export default buildIgnorePaths;
